@@ -1,1 +1,8 @@
-# SI_2025_lab2_223073
+Ivana Stratrova 223073
+
+Control flow graph
+
+
+
+
+
